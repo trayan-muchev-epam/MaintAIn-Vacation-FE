@@ -1,0 +1,31 @@
+{
+  "name": "maintain-vacation-fe",
+  "version": "1.0.0",
+  "description": "Repository for maintAIn vacation FE test application",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trayan-muchev-epam/MaintAIn-Vacation-FE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trayan-muchev-epam/MaintAIn-Vacation-FE/issues"
+  },
+  "homepage": "https://github.com/trayan-muchev-epam/MaintAIn-Vacation-FE#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.0"
+  }
+}
